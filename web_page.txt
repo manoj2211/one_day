@@ -1,9 +1,9 @@
-a = 5;
-b = 4;
-c = a+b;
-print(c)
+#creating sample web page
+#using html and css
 
-# a is a variable
-# b is a variable
-# c is a variable
-# using math 
+<html>
+	<head>My web site</head>
+		<body>
+			<h1>Manojkumar Ganesan</h1>
+		</body>
+</html>
