@@ -3,3 +3,7 @@ b = 4;
 c = a+b;
 print(c)
 
+# a is a variable
+# b is a variable
+# c is a variable
+# using math 
