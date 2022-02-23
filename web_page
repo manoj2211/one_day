@@ -1,0 +1,10 @@
+#creating sample web page
+#using html and css
+#using bootstrap 
+
+<html>
+	<head>My web site</head>
+		<body>
+			<h1>Manojkumar Ganesan</h1>
+		</body>
+</html>
